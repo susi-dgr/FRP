@@ -1,21 +1,21 @@
 # Teil 1
 
-[Einführung](Einführung.md)
+[Einführung](Teil1/Einführung.md)
 
-[ScalaEinführung](ScalaEinführung.md)
+[ScalaEinführung](Teil1/ScalaEinführung.md)
 
-[FunktionaleDatenstrukturen](FunktionaleDatenstrukturen.md)
+[FunktionaleDatenstrukturen](Teil1/FunktionaleDatenstrukturen.md)
 
-[LambdaExpressions](LambdaExpressions.md)
+[LambdaExpressions](Teil1/LambdaExpressions.md)
 
-[FunctionalExceptionHandling](FunctionalExceptionHandling.md)
+[FunctionalExceptionHandling](Teil1/FunctionalExceptionHandling.md)
 
-[FunctionalReduction](FunctionalReduction.md)
+[FunctionalReduction](Teil1/FunctionalReduction.md)
 
-[FunctionChainingAndComposition](FunctionChainingAndComposition.md)
+[FunctionChainingAndComposition](Teil1/FunctionChainingAndComposition.md)
 
-[LazyEvaluationAndStreams](LazyEvaluationAndStreams.md)
+[LazyEvaluationAndStreams](Teil1/LazyEvaluationAndStreams.md)
 
-[ParallelStreams](ParallelStreams.md)
+[ParallelStreams](Teil1/ParallelStreams.md)
 
 # Teil 2
