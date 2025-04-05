@@ -19,3 +19,11 @@
 [ParallelStreams](Teil1/ParallelStreams.md)
 
 # Teil 2
+
+[ScalaBasics](Teil2/ScalaBasics.md)
+
+[ReactiveProgramming](Teil2/ReactiveProgramming.md)
+
+[ActorFundamentals](Teil2/ActorFundamentals.md)
+
+[ReactiveStreams](Teil2/ReactiveStreams.md)
